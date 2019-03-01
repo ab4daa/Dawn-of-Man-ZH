@@ -1,46 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <strings>
 	<!-- This is the name of the language as it will appear on the language select screen -->
-	<string name="language_name">English</string>
+	<string name="language_name">ZHTW</string>
 	
 	<!-- This is a colon that will separate two strings, we do this because in french you also have space before the colon -->
 	<string name="colon">: </string>
 	
 	<!-- Loading screen -->
-	<string name="loading">Loading</string>
-	<string name="press_any_key">Press any key</string>
+	<string name="loading">載入中</string>
+	<string name="press_any_key">請按任意鍵</string>
 	
 	<!-- Load/Save panel -->
-	<string name="playtime">Play time</string>
-	<string name="save_panel_population">Population</string>
+	<string name="playtime">遊戲時數</string>
+	<string name="save_panel_population">人口</string>
 	
 	<!-- Selection panel UI -->
-	<string name="raider">Raider</string>
-	<string name="build_progress">Build Progress</string>
-	<string name="extractable_resources">Extractable Resources</string>
-	<string name="pending_repair_materials">Needed Repair Materials</string>
-	<string name="fish_amount">Fish Amount</string>
-	<string name="mud_amount">Mud Amount</string>
-	<string name="no_recipe">No tasks in queue</string>
-	<string name="planting_progress">Planting Progress</string>
-	<string name="action_progress">Action Progress</string>
-	<string name="recycle_progress">Recycle Progress</string>
-	<string name="pending_construction_materials">Pending Materials</string>
+	<string name="raider">掠奪者</string>
+	<string name="build_progress">建造進度</string>
+	<string name="extractable_resources">可採集資源</string>
+	<string name="pending_repair_materials">需要原料修理</string>
+	<string name="fish_amount">魚類數量</string>
+	<string name="mud_amount">泥巴數量</string>
+	<string name="no_recipe">無工作在佇列中</string>
+	<string name="planting_progress">種植進度</string>
+	<string name="action_progress">行動進度</string>
+	<string name="recycle_progress">回收進度</string>
+	<string name="pending_construction_materials">尚需建築原料</string>
 	
 	<!-- Tech confirm texts -->
 	<string name="confirm_research_copper_smelting">
-You are about enter the (b)Metal Age(/b).
+您將要進入 (b)金屬時代(/b).
 
-It is highly recommended that you (b)fortify(/b) your (b)settlement(/b) and have enough people and weapons to defend from raiders.
+高度建議您 (b)強化防禦(/b) 您的 (b)聚落(/b) ，並且聚集足夠的人力和武器抵抗掠奪者
 
-Are you sure you want to proceed?
+您確定您要繼續嗎?
 </string>
 	
 	<!-- Game over dialog -->
-	<string name="game_over_title">Game Over</string>
+	<string name="game_over_title">遊戲結束</string>
 	<string name="game_over_text">
-All adults are dead, you failed to build a viable settlement.
-But don't be disappointed, this is part of the learning experience, you can try a different play style next time.
+所有成人都死亡，您未能建立成功的聚落
+
+但不要失望，這是學習經驗的一部份，下次您可以選擇不同的遊戲方式
 	</string>
 	
 	<!-- Resource limit set to infinity, leave as is -->
@@ -50,111 +51,111 @@ But don't be disappointed, this is part of the learning experience, you can try 
 	<string name="pop">Pop</string> 
 
 	<!-- Tracked variables -->
-	<string name="tracked_variable_population">Population</string>
-	<string name="tracked_variable_food">Food</string>
-	<string name="tracked_variable_domestic_animals">Domestic Animals</string>
-	<string name="tracked_variable_workload">Workload</string>
+	<string name="tracked_variable_population">人口</string>
+	<string name="tracked_variable_food">食物</string>
+	<string name="tracked_variable_domestic_animals">家畜</string>
+	<string name="tracked_variable_workload">工作量</string>
 
 	<!-- Key Bindings screen -->
-	<string name="binding_title_action">Action</string>
-	<string name="binding_title_control">Control</string>
-	<string name="binding_title_alternative">Alternative</string>
-	<string name="binding_press_key">Press valid keyboard key</string>
-	<string name="bindings_reset">Reset to defaults</string>
+	<string name="binding_title_action">行動</string>
+	<string name="binding_title_control">控制</string>
+	<string name="binding_title_alternative">替代鍵</string>
+	<string name="binding_press_key">請按下合法的按鍵</string>
+	<string name="bindings_reset">重設為預設值</string>
 
 	<!-- GameModes -->
-	<string name="game_mode">Game Mode</string>
-	<string name="game_mode_normal">Normal</string>
-	<string name="game_mode_hardcore">Hardcore</string>
+	<string name="game_mode">遊戲模式</string>
+	<string name="game_mode_normal">正常</string>
+	<string name="game_mode_hardcore">硬派</string>
 	
 	<string name="game_mode_normal_description">
-- Unlimited savegames
-- Game can be paused
-- Other tribes match your technology
-- Normal amount of raiders
-- Reduced animal aggression
+- 無限制存檔
+- 可暫停遊戲
+- 其他部落的科技與您相當
+- 正常數量的掠奪者
+- 低動物侵略性
 	</string>
 	
 	<string name="game_mode_hardcore_description">
-- Only one savegame
-- Game can not be paused
-- Other tribes progress at their own rate
-- Larger amount of raiders
-- Regular animal aggression
+- 只能有一個存檔
+- 不能暫停遊戲
+- 其他部落依各自的速度發展
+- 較多掠奪者
+- 正常動物侵略性
 	</string>
 	
 	<!-- Community -->
-	<string name="community_workshop_text">No community scenarios available.(n)(n)Use button at the bottom of this screen to download scenarios from the Steam Workshop.</string>
-	<string name="community_generic_text">No community scenarios available.(n)(n)You can download community scenarios and place them in the Documents/DawnOfMan/Scenarios folder.</string>
+	<string name="community_workshop_text">沒有可用的社群劇本 (n)(n)點擊下方按鈕從Steam工作坊下載劇本</string>
+	<string name="community_generic_text">沒有可用的社群劇本 (n)(n)您可以下載社群劇本並將它們放在 Documents/DawnOfMan/Scenarios 資料夾</string>
 
 	<!-- Disasters -->
-	<string name="disaster_storm">Storm</string>
-	<string name="disaster_blizzard">Blizzard</string>
+	<string name="disaster_storm">暴風雨</string>
+	<string name="disaster_blizzard">暴風雪</string>
 
 	<!-- Quick panels -->
-	<string name="quick_panel_general">General</string>
-	<string name="quick_panel_food">Food</string>
-	<string name="quick_panel_resources">Resources</string>
-	<string name="quick_panel_grouped_resources">Grouped Resources</string> <!-- Shows all your resources goruped by type -->
-	<string name="quick_panel_defense">Defense</string>
-	<string name="quick_panel_speed">Speed</string>
-	<string name="quick_panel_transports">Transports</string> <!-- Show the amount of carts and sledges you have in the town -->
-	<string name="quick_panel_animals">Animals</string>
-	<string name="quick_panel_food_chart">Food Chart</string>
-	<string name="quick_panel_straw_chart">Straw Chart</string>	
+	<string name="quick_panel_general">一般</string>
+	<string name="quick_panel_food">食物</string>
+	<string name="quick_panel_resources">資源</string>
+	<string name="quick_panel_grouped_resources">群組化資源</string> <!-- Shows all your resources goruped by type -->
+	<string name="quick_panel_defense">防禦</string>
+	<string name="quick_panel_speed">速度</string>
+	<string name="quick_panel_transports">運輸工具</string> <!-- Show the amount of carts and sledges you have in the town -->
+	<string name="quick_panel_animals">動物</string>
+	<string name="quick_panel_food_chart">食物表</string>
+	<string name="quick_panel_straw_chart">稻草表</string>	
 	
 	<!-- Trading -->
-	<string name="trade">Trade</string>
-	<string name="trader">Trader</string>
-	<string name="trader_arrived">Trader has arrived</string>
-	<string name="trader_stock">Trader Stock</string>
-	<string name="trader_trade">Trader Trade</string>
-	<string name="settlement_trade">Settlement Trade</string>
-	<string name="settlement_stock">Settlement Stock</string>
-	<string name="no_items">No items</string>
-	<string name="ok">OK</string>
-	<string name="cancel">Cancel</string>
-	<string name="trade_value">Trade value</string>
-	<string name="trade_commission">Commission</string>
-	<string name="trade_including_commission">Total value of trader goods, including commission.</string>
-	<string name="commission_low">Low</string>
-	<string name="commission_average">Average</string>
-	<string name="commission_high">High</string>
+	<string name="trade">貿易</string>
+	<string name="trader">商人</string>
+	<string name="trader_arrived">商人已到達</string>
+	<string name="trader_stock">商人庫存</string>
+	<string name="trader_trade">商人交易</string>
+	<string name="settlement_trade">聚落交易</string>
+	<string name="settlement_stock">聚落庫存</string>
+	<string name="no_items">無項目</string>
+	<string name="ok">確定</string>
+	<string name="cancel">取消</string>
+	<string name="trade_value">貿易值</string>
+	<string name="trade_commission">佣金</string>
+	<string name="trade_including_commission">交易貨物總價值，包括佣金</string>
+	<string name="commission_low">低</string>
+	<string name="commission_average">中</string>
+	<string name="commission_high">高</string>
 
 	<!-- Placement -->
-	<string name="structure_placement_text">Left click to place.(n)Use (1) and (2) keys to rotate.(n)Shift+click to place multiple.</string>
-	<string name="mine_placement_text">Left click to place.(n)Needs to be placed on (1) deposit.</string>
-	<string name="field_placement_text">Click and hold to place field.</string>
-	<string name="wall_placement_text">Click and hold to place wall. Use (1) and (2) keys to change shape.</string>
-	<string name="bridge_placement_text">Click and hold to place bridge.</string>
-	<string name="work_area_placement_text">Left click to place.(n)Use (1) and (2) keys to change size.(n)Shift+click to place multiple.</string>
+	<string name="structure_placement_text">左鍵以放置.(n)使用 (1) and (2) 鍵以旋轉.(n)Shift點擊以多重放置.</string>
+	<string name="mine_placement_text">左鍵以放置.(n)需要放置在 (1) 礦床.</string>
+	<string name="field_placement_text">點擊並長按以放置田地</string>
+	<string name="wall_placement_text">點擊並長按以放置牆. 使用 (1) 和 (2) 鍵改變形狀.</string>
+	<string name="bridge_placement_text">點擊並長按以放置橋樑.</string>
+	<string name="work_area_placement_text">左鍵以放置.(n)使用 (1) and (2) 鍵改變大小.(n)Shift點擊以多重放置.</string>
 	<string name="place_confirm">Place entity</string>
-	<string name="place_cancel">Cancel</string>
+	<string name="place_cancel">取消</string>
 
 	<!-- Temperatures, leave as is -->
 	<string name="celsius">°C</string>
 	<string name="fahrenheit">°F</string>
 
 	<!-- Eras -->
-	<string name="era">Era</string>
-	<string name="era_paleolithic">Paleolithic</string>
-	<string name="era_mesolithic">Mesolithic</string>
-	<string name="era_neolithic">Neolithic</string>
-	<string name="era_copper_age">Copper Age</string>
-	<string name="era_bronze_age">Bronze Age</string>
-	<string name="era_iron_age">Iron Age</string>
+	<string name="era">時代</string>
+	<string name="era_paleolithic">舊石器時代</string>
+	<string name="era_mesolithic">中石器時代</string>
+	<string name="era_neolithic">新石器時代</string>
+	<string name="era_copper_age">銅器時代</string>
+	<string name="era_bronze_age">青銅器時代</string>
+	<string name="era_iron_age">鐵器時代</string>
 	
-	<string name="super_era_stone_age">Stone Age</string>
-	<string name="super_era_metal_age">Metal Age</string>	
+	<string name="super_era_stone_age">石器時代</string>
+	<string name="super_era_metal_age">金屬時代</string>	
 
 	<!-- Knowledge -->
-	<string name="knowledge">Knowledge</string>
-	<string name="knowledge_earned">Knowledge +(1)</string>
-	<string name="knowledge_population">Population reached: (1)</string>
-	<string name="knowledge_animal_population">Animal population reached: (1)</string>
-	<string name="knowledge_first_structure_built">First structure: (1)</string>
-	<string name="knowledge_first_raider_killed">First raider Killed</string>
-	<string name="knowledge_first_resource_produced">First resource produced: (1)</string>
+	<string name="knowledge">知識</string>
+	<string name="knowledge_earned">知識 +(1)</string>
+	<string name="knowledge_population">人口達到: (1)</string>
+	<string name="knowledge_animal_population">牲口達到: (1)</string>
+	<string name="knowledge_first_structure_built">第一個建築: (1)</string>
+	<string name="knowledge_first_raider_killed">初次殺死掠奪者</string>
+	<string name="knowledge_first_resource_produced">第一次製造資源: (1)</string>
 	<string name="knowledge_first_animal_hunted">First animal hunted: (1)</string>
 	<string name="knowledge_first_resource_acquired">First resource acquired: (1)</string>
 	<string name="knowledge_structure_built">Structure built: (1) x(2)</string>
